@@ -1,0 +1,5 @@
+pip install twine
+python setup.py sdist
+twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+
+pypi-AgEIcHlwaS5vcmcCJDFlZWFiY2VmLTliNGEtNDQ5NC1hMTM4LWMyNTMxZGVkMWViZgACKlszLCJlMzI0YTliNC1kMmRlLTQ1MzSYtODY5MS1kMmExNGVhODY3YjQiXQAABiAYznI7mbuQEp-_nOoGh_V38-0hLoNTKtWZr7Nzrj3I2A
